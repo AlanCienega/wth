@@ -1,5 +1,3 @@
-// component to display hours
-
 const Hours = () => {
   return (
     <div>
